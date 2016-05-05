@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>USMETRO</Author>
+  <LastAuthor>USMETRO</LastAuthor>
+  <Revision>12</Revision>
+  <TotalTime>84</TotalTime>
+  <Created>2016-05-03T14:56:23Z</Created>
+  <LastSaved>2016-05-05T03:20:34Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6345</WindowHeight>
+  <WindowWidth>18855</WindowWidth>
+  <WindowTopX>270</WindowTopX>
+  <WindowTopY>525</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Liberation Sans" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+  </Style>
+  <Style ss:ID="s70">
+   <Borders/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Liberation Sans" ss:Size="11" ss:Color="#FF3333"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="26" ss:ExpandedRowCount="39" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="14.25">
+   <Column ss:AutoFitWidth="0" ss:Width="63.75" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="118.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="63.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="72.75"/>
+   <Column ss:AutoFitWidth="0" ss:Width="109.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="63.75" ss:Span="2"/>
+   <Column ss:Index="11" ss:AutoFitWidth="0" ss:Width="77.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="97.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="63.75" ss:Span="4"/>
+   <Column ss:Index="18" ss:AutoFitWidth="0" ss:Width="132"/>
+   <Column ss:AutoFitWidth="0" ss:Width="73.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="132"/>
+   <Column ss:Width="118.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="63.75" ss:Span="1"/>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">X</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Y</Data></Cell>
+    <Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Iteration 1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Itemset</Data></Cell>
+    <Cell><Data ss:Type="String">Support Count</Data></Cell>
+    <Cell><Data ss:Type="String">Pruned:</Data></Cell>
+    <Cell><Data ss:Type="String">Problem 4: Confidence</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Apple</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="String">(None)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Banana</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Kiwi</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Confidence(A, B) = P(A, B)/P(A)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Milk</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="String">X</Data></Cell>
+    <Cell><Data ss:Type="String">Y</Data></Cell>
+    <Cell><Data ss:Type="String">Euc</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Egg</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">7.2801098892805198</Data></Cell>
+    <Cell ss:Index="18" ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="14"><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Iteration 2</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Confidence Calculations</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="18"><Data ss:Type="String">Itemset</Data></Cell>
+    <Cell><Data ss:Type="String">Support Count</Data></Cell>
+    <Cell><Data ss:Type="String">Pruned:</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">A, B</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">A -&gt; B</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">B -&gt; A</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CiX</Data></Cell>
+    <Cell><Data ss:Type="String">CiY</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">CiX</Data></Cell>
+    <Cell><Data ss:Type="String">CiY</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">CiX</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Apple, Banana}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="String">Apple, Egg</Data></Cell>
+    <Cell><Data ss:Type="String">{Apple, Banana}</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">9.5</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">3.6666666666666701</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Apple, Kiwi}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">Kiwi, Egg</Data></Cell>
+    <Cell><Data ss:Type="String">{Apple, Kiwi}</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">6.5</Data></Cell>
+    <Cell><Data ss:Type="Number">5.25</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">7</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3333333333333304</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Apple, Milk}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">Milk, Egg</Data></Cell>
+    <Cell><Data ss:Type="String">{Apple, Milk}</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3.5</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Apple, Egg}</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell><Data ss:Type="String">{Banana, Kiwi}</Data></Cell>
+    <Cell><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="18"><Data ss:Type="String">{Banana, Kiwi}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.8</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell><Data ss:Type="String">{Banana, Milk}</Data></Cell>
+    <Cell><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Centroid</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Centroid</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Centroid</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">Single Link:</Data></Cell>
+    <Cell><Data ss:Type="String">4 &amp; 5 min</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Banana, Milk}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.6</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell><Data ss:Type="String">{Banana, Egg}</Data></Cell>
+    <Cell><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10.198039027185599</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">9.9624294225856396</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">9.7182531580755001</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="String">A, B</Data></Cell>
+    <Cell><Data ss:Type="String">A, B, C</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Banana, Egg}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+    <Cell><Data ss:Type="String">{Kiwi, Milk}</Data></Cell>
+    <Cell><Data ss:Type="Number">0.5</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">9.4339811320565996</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">8.3553874835341997</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">8.2327260234856503</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">B</Data></Cell>
+    <Cell><Data ss:Type="String">C</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Kiwi, Milk}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">2.2360679774997898</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">3.8078865529319499</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">3.8078865529319499</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">C</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Kiwi, Egg}</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="18"><Data ss:Type="String">{Milk, Egg}</Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">0.2</Data></Cell>
+    <Cell ss:StyleID="s70"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Distance</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="String">Distance</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Distance</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">Complete Link:</Data></Cell>
+    <Cell><Data ss:Type="String">B&amp; C min of maxes</Data></Cell>
+    <Cell ss:Index="18" ss:StyleID="s67"/>
+    <Cell ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Centroid 1</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 2</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 3</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 1</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 2</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 3</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 1</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 2</Data></Cell>
+    <Cell><Data ss:Type="String">Centroid 3</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="String">A</Data></Cell>
+    <Cell><Data ss:Type="String">A, B, C</Data></Cell>
+    <Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Iteration 3</Data></Cell>
+    <Cell ss:MergeAcross="3" ss:StyleID="s67"><Data ss:Type="String">Confidence Calculations</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">3.60555127546399</Data></Cell>
+    <Cell><Data ss:Type="Number">8.0622577482985491</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1180339887499</Data></Cell>
+    <Cell><Data ss:Type="Number">6.5431261641512002</Data></Cell>
+    <Cell><Data ss:Type="Number">6.51920240520265</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9436506316151001</Data></Cell>
+    <Cell><Data ss:Type="Number">7.55718936583642</Data></Cell>
+    <Cell><Data ss:Type="Number">6.51920240520265</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">B</Data></Cell>
+    <Cell><Data ss:Type="String">B, C</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Itemset</Data></Cell>
+    <Cell><Data ss:Type="String">Support Count</Data></Cell>
+    <Cell><Data ss:Type="String">Pruned:</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">A, B, C</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">A, B -&gt; C</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">A, C -&gt; B</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">B, C -&gt; A</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">A -&gt; B, C</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">C -&gt; A, B</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.2426406871192901</Data></Cell>
+    <Cell><Data ss:Type="Number">3.16227766016838</Data></Cell>
+    <Cell><Data ss:Type="Number">4.60977222864644</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5069390943299901</Data></Cell>
+    <Cell><Data ss:Type="Number">1.58113883008419</Data></Cell>
+    <Cell><Data ss:Type="Number">4.3333333333333304</Data></Cell>
+    <Cell><Data ss:Type="Number">5.0442486501405197</Data></Cell>
+    <Cell><Data ss:Type="Number">1.58113883008419</Data></Cell>
+    <Cell ss:Index="11"><Data ss:Type="String">C</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Apple, Banana, Kiwi}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell><Data ss:Type="String">Apple, Kiwi, Milk</Data></Cell>
+    <Cell><Data ss:Type="String">{Apple, Banana, Kiwi}</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">-</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8.4852813742385695</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">7.2801098892805198</Data></Cell>
+    <Cell><Data ss:Type="Number">7.4330343736592503</Data></Cell>
+    <Cell><Data ss:Type="Number">1.9525624189766599</Data></Cell>
+    <Cell><Data ss:Type="Number">6.51920240520265</Data></Cell>
+    <Cell><Data ss:Type="Number">6.6164777470930698</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0540925533894601</Data></Cell>
+    <Cell><Data ss:Type="Number">6.51920240520265</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Apple, Banana, Milk}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell><Data ss:Type="String">{Apple, Banana, Milk}</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">3.60555127546399</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7.21110255092798</Data></Cell>
+    <Cell><Data ss:Type="Number">2.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3.13249102153542</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7008771254956896</Data></Cell>
+    <Cell><Data ss:Type="Number">1.6666666666666701</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1766546953805603</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7008771254956896</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">{Banana, Kiwi, Milk}</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">0.4</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell><Data ss:Type="String">{Banana, Kiwi, Milk}</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">-</Data></Cell>
+    <Cell ss:Formula="=(2/3)"><Data ss:Type="Number">0.66666666666666663</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7.0710678118654799</Data></Cell>
+    <Cell><Data ss:Type="Number">3.60555127546399</Data></Cell>
+    <Cell><Data ss:Type="Number">6.7082039324993703</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0207972893961497</Data></Cell>
+    <Cell><Data ss:Type="Number">0.55901699437494701</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7008771254956896</Data></Cell>
+    <Cell><Data ss:Type="Number">5.2068331172711</Data></Cell>
+    <Cell><Data ss:Type="Number">0.66666666666666696</Data></Cell>
+    <Cell><Data ss:Type="Number">5.7008771254956896</Data></Cell>
+    <Cell ss:Index="18" ss:StyleID="s75"><Data ss:Type="String">{Apple, Kiwi, Milk}</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">0.2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">7.21110255092798</Data></Cell>
+    <Cell><Data ss:Type="Number">4.1231056256176597</Data></Cell>
+    <Cell><Data ss:Type="Number">5.3851648071345002</Data></Cell>
+    <Cell><Data ss:Type="Number">6.2649820430708303</Data></Cell>
+    <Cell><Data ss:Type="Number">1.3462912017836299</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5276925690687104</Data></Cell>
+    <Cell><Data ss:Type="Number">5.51764845241562</Data></Cell>
+    <Cell><Data ss:Type="Number">1.0540925533894601</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5276925690687104</Data></Cell>
+    <Cell ss:Index="18" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8.0622577482985491</Data></Cell>
+    <Cell><Data ss:Type="Number">7.21110255092798</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+    <Cell><Data ss:Type="Number">7.7620873481300103</Data></Cell>
+    <Cell><Data ss:Type="Number">6.3884661695903198</Data></Cell>
+    <Cell><Data ss:Type="Number">1.58113883008419</Data></Cell>
+    <Cell><Data ss:Type="Number">7.4907350180814101</Data></Cell>
+    <Cell><Data ss:Type="Number">6.4377359719426597</Data></Cell>
+    <Cell><Data ss:Type="Number">1.58113883008419</Data></Cell>
+    <Cell ss:Index="18" ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Iteration 4:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">10.198039027185599</Data></Cell>
+    <Cell><Data ss:Type="Number">1.4142135623731</Data></Cell>
+    <Cell><Data ss:Type="Number">7.6157731058639104</Data></Cell>
+    <Cell><Data ss:Type="Number">1.1180339887499</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5069390943299901</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0415229867972897</Data></Cell>
+    <Cell><Data ss:Type="Number">0.33333333333333298</Data></Cell>
+    <Cell><Data ss:Type="Number">5.5477723256977498</Data></Cell>
+    <Cell><Data ss:Type="Number">6.0415229867972897</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">Itemset</Data></Cell>
+    <Cell><Data ss:Type="String">Support Count</Data></Cell>
+    <Cell><Data ss:Type="String">Pruned:</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Minimum Distance</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Minimum Distance</Data></Cell>
+    <Cell ss:MergeAcross="2" ss:StyleID="s67"><Data ss:Type="String">Minimum Distance</Data></Cell>
+    <Cell ss:Index="18"><Data ss:Type="String">(None)</Data></Cell>
+    <Cell><Data ss:Type="String">-</Data></Cell>
+    <Cell><Data ss:Type="String">(None)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="2"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="5"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="8"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="3"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:Index="9"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="4"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0" x:Data="&amp;C&amp;A"/>
+    <Footer x:Margin="0" x:Data="&amp;CPage &amp;P"/>
+    <PageMargins x:Bottom="0.39374999999999999" x:Left="0" x:Right="0"
+     x:Top="0.39374999999999999"/>
+   </PageSetup>
+   <Zoom>70</Zoom>
+   <Selected/>
+   <LeftColumnVisible>10</LeftColumnVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>20</ActiveRow>
+     <ActiveCol>18</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
